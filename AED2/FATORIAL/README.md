@@ -5,7 +5,7 @@ Primeiro que a quantidade de recursões é igual ao valor inserido +1 (N+1).
 Segundo que o resultado começava a apresentar anormalidade apartir do fatorial de 40.
 Checando o código percebi que isso ocorria devido ao fato de ter printado em formato inteiro a resposta.
 
-![Fatorial_inteiro](/Imagens/Fatorial_int.png)
+![Fatorial_inteiro](Imagens/Fatorial_int.png)
 
 Então para fins de teste, decidi usar o tipo float com 1 casa decimal, mesmo sabendo que ele enfrentaria o mesmo problema.
 
