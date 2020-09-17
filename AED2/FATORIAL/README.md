@@ -15,6 +15,6 @@ A solução foi usar o tipo double, assim consegui obter o resultado esperado. P
 
 ![Fatorial_double](Imagens/Fatorial_double.png)
 
-Usando o site http://blogcalculadora.blogspot.com/2012/08/tabuada-tabela-de-fatorial-de-1-100.html e a calculadora eu pude checar se os valores obtidos estavam corretos.  
+Usando o site http://blogcalculadora.blogspot.com/2012/08/tabuada-tabela-de-fatorial-de-1-100.html e a calculadora eu pude checar se os valores obtidos estavam corretos subtraindo os valores obtidos dos valores fornecidos no site.  
 
 ![Conferencia_respostas](Imagens/Conferencia_respostas.png)
