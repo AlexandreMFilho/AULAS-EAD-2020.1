@@ -1,4 +1,4 @@
-#Relatório Fatorial Recursivo  
+# Relatório Fatorial Recursivo  
 Inicialmente eu criei o código com um for que itera de 10 em 10, indo de 10 a 100.
 Mas ao executar o código notei algumas coisas.
 Primeiro que a quantidade de recursões é igual ao valor inserido +1 (N+1).
