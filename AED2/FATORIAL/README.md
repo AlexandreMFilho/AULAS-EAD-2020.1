@@ -9,12 +9,12 @@ Checando o código percebi que isso ocorria devido ao fato de ter printado em fo
 
 Então para fins de teste, decidi usar o tipo float com 1 casa decimal, mesmo sabendo que ele enfrentaria o mesmo problema.
 
-![Fatorial_float](/Imagens/Fatorial_float.png)
+![Fatorial_float](Imagens/Fatorial_float.png)
 
 A solução foi usar o tipo double, assim consegui obter o resultado esperado. Pois o valor fatorial aumenta consideravelmente, que os tipos int e float são incapazes de aramazenar.
 
-![Fatorial_double](/Imagens/Fatorial_double.png)
+![Fatorial_double](Imagens/Fatorial_double.png)
 
 Usando o site http://blogcalculadora.blogspot.com/2012/08/tabuada-tabela-de-fatorial-de-1-100.html e a calculadora eu pude checar se os valores obtidos estavam corretos.
 
-![Conferencia_respostas](/Imagens/Conferencia_respostas.png)
+![Conferencia_respostas](Imagens/Conferencia_respostas.png)
