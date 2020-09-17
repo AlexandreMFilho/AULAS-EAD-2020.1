@@ -1,7 +1,7 @@
 # Relatório Fatorial Recursivo  
 Inicialmente eu criei o código com um for que itera de 10 em 10, indo de 10 a 100.  
 Mas ao executar o código notei algumas coisas.  
-Primeiro que a quantidade de recursões é igual ao valor inserido +1 (N+1).  
+Primeiro que a quantidade de recursões é igual ao valor inserido mais um (N+1).  
 Segundo que o resultado começava a apresentar anormalidade apartir do fatorial de 40.  
 Checando o código percebi que isso ocorria devido ao fato de ter printado em formato inteiro a resposta.  
 
