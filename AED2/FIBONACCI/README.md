@@ -13,7 +13,8 @@ Novamente após 1 hora de execução pude notar que a quantidade de recursões j
 
 ![Fibonacci_50_2](Imagens/Fibo_1hora.png)
 
-Analisando melhor, pude observar que o Fibonacci de 10 necessitava de 55 recursões e que o Fibonacci de 20 necessitava de 6765 recursões e o de 30 precisava de 832040, logo percebi que o Fibonacci de 60 seria um número muito maior, e após constatar que após 1 hora de execução o valor ainda não tinha sido encontrado, encerrei os testes pois possivelmente este programa precisaria de no mínimo alguns dias para achar o valor de 60. Cheguei a conclusão que este programa seria incapaz de ser executado pois possivelmente ele levaria mais anos que eu para terminar, visto que o mesmo ainda iria calcular o Fibonacci de 70, 80, 90 e 100.  
+Analisando melhor, pude observar que o Fibonacci de 10 necessitava de 55 recursões e que o Fibonacci de 20 necessitava de 6765 recursões e o de 30 precisava de 832040, logo percebi que o Fibonacci de 60 seria um número muito maior, e após constatar que após 1 hora de execução o valor ainda não tinha sido encontrado, encerrei os testes pois possivelmente este programa precisaria de no mínimo alguns dias para achar o valor de 60.  
+Cheguei a conclusão que este programa seria incapaz de ser executado pois possivelmente ele levaria mais anos que eu para terminar, visto que o mesmo ainda iria calcular o Fibonacci de 70, 80, 90 e 100.  
 
 ![Fibonacci_50_2](Imagens/Fibo_60.png)
 
