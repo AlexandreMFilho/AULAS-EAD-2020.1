@@ -6,7 +6,7 @@ Passaram-se mais de 1hora de execução e o programa ainda não havia calculado 
 
 ![Fibonacci_50](Imagens/Fibo_50.png)  
 
-![Fibonacci_50_2](Imagens/Fibo_50_2.png)  
+![Fibonacci_50_2](Imagens/Fibo_50_2.jpeg)  
 
 Querendo entender o motivo da demora, alterei o código para printar na tela a cada nova recursão iniciada e assim averiguar se o programa estava travando.  
 Novamente após 1 hora de execução pude notar que a quantidade de recursões já estava acima de 1346763324 e continuava sem parar a entrar em outras recursões.  
