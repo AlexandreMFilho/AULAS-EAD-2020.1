@@ -1,12 +1,15 @@
 #include<stdio.h>
+#include<math.h>
+#include<stdlib.h>
+#include<string.h>
 
 int * Quicksort(int*,int, int);
 void Troca(int *, int, int);
 
 int main(){
-  int nome[50] = {97,108,101,120,97,110,100,114,101,109,97,105};
+  std::string str ("alexandremaia");//{97,108,101,120,97,110,100,114,101,109,97,105};
   int ordenado[50];
-  strcpy(ordenado,Quicksort(nome,1,string.length(nome)));
+  strcpy(ordenado,Quicksort(nome,1,str.length()));
   printf("%s\n%s\n",nome,ordenado);
 }
 
