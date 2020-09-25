@@ -31,6 +31,6 @@ int Chica(int n){
   }
   int val,rest;
   val = n/10;
-  rest = n%10;
+  rest = (n%10)*5;
   return Chica(val+rest);
 }
