@@ -1,11 +1,11 @@
-#include<sdtio.h>
+#include<stdio.h>
 
-void Chica(int);
+int Chica(int);
 
 int main(){
-  int num, aux;
-  for(int i;i<=n;i++){
-    printf("%d eh divisivel por 7?\n");
+  int num, aux, n = 50;
+  for(int i = 0;i<=n;i++){
+    printf("%d eh divisivel por 7?\n",i);
     aux = Chica(i);
     if(aux > 0){
       printf("Sim\n");
@@ -14,6 +14,7 @@ int main(){
     }
     printf("---------------\n");
   }
+return 0;
 }
 
 int Chica(int n){
